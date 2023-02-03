@@ -1,2 +1,1 @@
-# prepCourse-Henry
-Este es una prueba del modulo 2 
+Esto es un proyecto para un curso
